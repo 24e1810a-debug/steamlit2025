@@ -13,7 +13,7 @@ option = st.selectbox(
 recipes = {
     "元気いっぱい": {
         "name": "スタミナ焼肉丼",
-        "url": "https://kurashiru.com/recipes/4edb9df3-8e2b-4acd-8a28-8fd0b35a262b"
+        "url": "https://tenhoo.jp/menu/%e3%82%bf%e3%83%b3%e3%82%bf%e3%83%b3%e3%83%a1%e3%83%b3/"
     },
     "ちょっと疲れた": {
         "name": "とろろご飯",
